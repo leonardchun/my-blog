@@ -2,7 +2,7 @@ title:  Gitlab-CI安装
 cover_picture: /images/hexo.jpg
 tags: []
 categories:
-  - 框架
+  - 玩转框架
 date: 2018-08-29 20:20:00
 ---
 ** {{ title }}：** <Excerpt in index | 首页摘要>

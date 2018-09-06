@@ -2,7 +2,7 @@ title: Hexo + Gitlab光速搭建博客并实现Git服务器自动部署
 cover_picture: /images/hexo.jpg
 tags: []
 categories:
-  - 框架
+  - 玩转框架
 date: 2018-08-29 20:20:00
 ---
 ** {{ title }}：** <Excerpt in index | 首页摘要>

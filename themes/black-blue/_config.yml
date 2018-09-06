@@ -6,9 +6,9 @@
 menu:
   # 主页: /archives/
   所有文章: /archives/
-  玩转开发工具: /categories/开发工具/
-  玩转数码: /categories/digital
-  算法学习: /categories/algorithm
+  玩转框架: /categories/玩转框架/
+  研发工具: /categories/研发工具/
+  大数据: /categories/大数据/
   关于我: /about/
 # 静心阅读: /tags
 

@@ -136,7 +136,7 @@ fancybox: true
 mathjax: false
 
 # Socail Share | 是否开启分享
-share: true
+share: false
 #baidushare: true
 #showshare: true
 

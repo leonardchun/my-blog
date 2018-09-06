@@ -25,10 +25,3 @@ categories: 分布式架构
 3. zookeeper实现
 
 ## 未完待续
-
-
-
-
-> 博客搬家，请访问新博客地址吧! [我的博客][1]
-
-[1]: https://www.duduhuahua.cn

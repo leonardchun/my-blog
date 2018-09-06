@@ -2,11 +2,12 @@ title: Zookeeper安装部署手册
 cover_picture: /images/zook.jpg
 tags: []
 categories:
+  - 大数据
   - 玩转框架
 date: 2018-08-29 20:20:00
 ---
 ** {{ title }}：** <Excerpt in index | 首页摘要>
-分布式系统不是万能，不能解决所有痛点。在高可用，一致性，分区容错性必须有所权衡。
+ZooKeeper是一个分布式的，开放源码的分布式应用程序协调服务，是Google的Chubby一个开源的实现，它是集群的管理者，监视着集群中各个节点的状态根据节点提交的反馈进行下一步合理操作。最终，将简单易用的接口和性能高效、功能稳定的系统提供给用户
 <!-- more -->
 <The rest of contents | 余下全文>
 

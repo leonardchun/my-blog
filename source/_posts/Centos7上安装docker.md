@@ -3,7 +3,7 @@ author: Leonard
 cover_picture: /images/docker.jpg
 tags: []
 categories:
-  - 大数据
+  - 研发工具
 date: 2018-08-30 11:26:00
 ---
 ** {{ title }}：** <Excerpt in index | 首页摘要>

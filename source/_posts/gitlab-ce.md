@@ -2,11 +2,11 @@ title:  Gitlab服务器搭建
 cover_picture: /images/hexo.jpg
 tags: []
 categories:
-  - 玩转框架
+  - 研发工具
 date: 2018-08-29 20:20:00
 ---
 ** {{ title }}：** <Excerpt in index | 首页摘要>
-分布式系统不是万能，不能解决所有痛点。在高可用，一致性，分区容错性必须有所权衡。
+GitLab 是一个用于仓库管理系统的开源项目，使用Git作为代码管理工具，并在此基础上搭建起来的web服务。
 <!-- more -->
 <The rest of contents | 余下全文>
 

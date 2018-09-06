@@ -7,7 +7,7 @@ cover_picture: /images/md.jpg
 date: 2018-08-29 20:06:00
 ---
 ** {{ title }}：** <Excerpt in index | 首页摘要>
-分布式系统不是万能，不能解决所有痛点。在高可用，一致性，分区容错性必须有所权衡。
+Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。
 <!-- more -->
 <The rest of contents | 余下全文>
 

@@ -2,9 +2,7 @@ title: Phoenix操作hbase语句
 author: Leonard
 cover_picture: /images/docker.jpg
 tags: []
-categories:
-  - 大数据
-  - 玩转框架
+categories: [玩转框架,大数据]
 date: 2018-08-30 11:26:00
 ---
 ** {{ title }}：** <Excerpt in index | 首页摘要>

@@ -1,9 +1,7 @@
 title: Zookeeper安装部署手册
 cover_picture: /images/zook.jpg
 tags: []
-categories:
-  - 大数据
-  - 玩转框架
+categories: [玩转框架,大数据]
 date: 2018-08-29 20:20:00
 ---
 ** {{ title }}：** <Excerpt in index | 首页摘要>

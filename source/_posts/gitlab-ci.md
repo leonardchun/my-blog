@@ -49,3 +49,6 @@ GitLab持续集成（CI）：是一种软件开发实践，即团队开发成员
      find / -name gitlab-runner
      find / -name gitlab-runner|xargs rm -rf
     
+    #删除runner的用户
+    userdel gitlab_runner
+    userdel gitlab_ci_multi_runner

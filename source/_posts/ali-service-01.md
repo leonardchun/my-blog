@@ -1,8 +1,6 @@
 title:  分布式服务技术
 tags: []
-categories:
-  - 阿里云技术
-  - 玩转框架
+categories: [玩转框架,阿里云技术]
 date: 2018-09-12 20:20:00
 ---
 ** {{ title }}：** <Excerpt in index | 首页摘要>
